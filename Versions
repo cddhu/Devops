@@ -1,0 +1,10 @@
+versions
+jenkins 2.346.3
+Maven 3.8.6
+SonarQube 9.6
+Jfrog 7.39.4-7.41.4	
+Docker 20.10.17
+Ansible 2.9 
+K8s 1.25
+Terraform 1.2.8
+Nagios 4.4.7
